@@ -1,0 +1,421 @@
+player_name,team,player_type,games,atBats,hits,doubles,triples,homeRuns,rbi,runs,walks,strikeouts,stolenBases,hbp,ops,total_bases,sorare_score,sorare_avg_per_game
+Alika Williams,Athletics,HITTER,7,6,1,0,0,0,1,0,0,2,0,0,0.334,1,3,0.43
+Brent Rooker,Athletics,HITTER,38,143,27,2,0,7,25,12,17,52,2,1,0.626,50,221,5.82
+Carlos Cortes,Athletics,HITTER,45,131,44,8,1,5,17,13,19,15,1,2,0.952,69,280,6.22
+Colby Thomas,Athletics,HITTER,17,35,11,2,0,1,5,4,2,9,0,0,0.808,16,58,3.41
+Darell Hernaiz,Athletics,HITTER,40,99,27,2,0,1,7,11,11,17,3,1,0.674,32,144,3.6
+Henry Bolte,Athletics,HITTER,14,43,12,2,0,0,4,3,6,11,4,1,0.699,14,74,5.29
+J.T. Ginn,Athletics,HITTER,12,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Jack Perkins,Athletics,HITTER,15,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Jeff McNeil,Athletics,HITTER,53,171,44,9,0,2,15,15,16,27,1,3,0.673,59,237,4.47
+Jonah Heim,Athletics,HITTER,21,66,13,6,0,1,8,7,7,13,0,0,0.603,22,98,4.67
+Lawrence Butler,Athletics,HITTER,50,141,23,3,0,3,13,17,18,43,4,0,0.506,35,182,3.64
+Nick Kurtz,Athletics,HITTER,55,197,54,11,1,8,37,35,52,75,6,2,0.892,91,490,8.91
+Shea Langeliers,Athletics,HITTER,51,208,62,12,0,13,28,36,20,47,0,4,0.912,113,457,8.96
+Tyler Soderstrom,Athletics,HITTER,53,201,42,16,2,6,25,24,23,44,1,1,0.69,80,348,6.57
+Zack Gelof,Athletics,HITTER,40,126,31,4,1,6,17,21,8,34,6,1,0.733,55,256,6.4
+Brandon Lowe,Pittsburgh Pirates,HITTER,50,193,52,12,1,14,36,33,25,50,0,1,0.915,108,467,9.34
+Bryan Reynolds,Pittsburgh Pirates,HITTER,56,199,53,11,2,4,34,33,36,53,4,3,0.787,80,429,7.66
+Endy Rodríguez,Pittsburgh Pirates,HITTER,8,19,6,1,0,0,2,4,10,6,0,0,0.92,7,47,5.88
+Esmerlyn Valdez,Pittsburgh Pirates,HITTER,5,16,2,0,0,2,5,2,2,9,0,0,0.722,8,36,7.2
+Henry Davis,Pittsburgh Pirates,HITTER,39,108,15,3,0,4,10,12,11,23,1,3,0.516,30,147,3.77
+Jake Mangum,Pittsburgh Pirates,HITTER,37,92,23,2,0,0,6,14,8,21,6,2,0.596,25,141,3.81
+Jared Triolo,Pittsburgh Pirates,HITTER,24,65,16,2,0,0,3,4,3,16,1,1,0.567,18,56,2.33
+Jhostynxon Garcia,Pittsburgh Pirates,HITTER,7,21,5,0,0,0,1,0,1,6,0,0,0.511,5,9,1.29
+Konnor Griffin,Pittsburgh Pirates,HITTER,49,180,47,8,2,4,21,29,14,53,12,3,0.716,71,353,7.2
+Marcell Ozuna,Pittsburgh Pirates,HITTER,46,172,32,5,0,5,21,14,18,56,0,2,0.573,52,208,4.52
+Nick Gonzales,Pittsburgh Pirates,HITTER,50,185,55,9,0,0,22,23,13,36,3,3,0.697,64,283,5.66
+Oneil Cruz,Pittsburgh Pirates,HITTER,54,223,58,10,0,11,35,38,18,87,17,3,0.777,101,493,9.13
+Spencer Horwitz,Pittsburgh Pirates,HITTER,51,156,45,7,1,6,25,21,26,24,1,2,0.85,72,340,6.67
+Bryce Johnson,San Diego Padres,HITTER,26,32,6,2,0,0,2,5,3,13,4,0,0.507,8,52,2.0
+Fernando Tatis Jr.,San Diego Padres,HITTER,54,200,52,6,1,0,16,19,24,51,14,2,0.639,60,304,5.63
+Freddy Fermin,San Diego Padres,HITTER,40,93,13,4,0,0,3,11,11,23,0,2,0.424,17,83,2.08
+Gavin Sheets,San Diego Padres,HITTER,50,153,38,10,0,9,23,21,17,37,3,1,0.817,75,324,6.48
+Jackson Merrill,San Diego Padres,HITTER,52,195,39,11,0,4,19,24,18,55,10,1,0.589,62,305,5.87
+Manny Machado,San Diego Padres,HITTER,53,189,32,5,0,9,27,27,26,51,1,0,0.604,64,319,6.02
+Miguel Andujar,San Diego Padres,HITTER,44,161,43,12,2,5,17,17,5,29,1,1,0.753,74,264,6.0
+Nick Castellanos,San Diego Padres,HITTER,38,113,21,5,0,4,19,9,5,33,1,0,0.554,38,155,4.08
+Ramón Laureano,San Diego Padres,HITTER,51,175,37,6,2,7,21,22,18,64,5,2,0.678,68,290,5.69
+Rodolfo Durán,San Diego Padres,HITTER,10,20,2,0,0,1,2,2,3,7,0,1,0.5,5,25,2.5
+Sung-Mun Song,San Diego Padres,HITTER,15,21,4,1,0,0,4,3,4,5,2,0,0.558,5,45,3.0
+Ty France,San Diego Padres,HITTER,35,95,26,3,2,5,16,10,3,25,1,1,0.808,48,179,5.11
+Xander Bogaerts,San Diego Padres,HITTER,53,192,47,3,0,7,24,22,19,37,9,0,0.681,71,343,6.47
+Cole Young,Seattle Mariners,HITTER,57,198,48,10,1,3,27,25,19,49,2,5,0.669,69,321,5.63
+Colt Emerson,Seattle Mariners,HITTER,10,31,8,3,1,1,6,5,4,8,0,1,0.877,16,74,7.4
+Dominic Canzone,Seattle Mariners,HITTER,48,114,27,9,0,5,21,16,12,29,1,2,0.762,51,236,4.92
+Gabe Speier,Seattle Mariners,HITTER,16,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+J.P. Crawford,Seattle Mariners,HITTER,48,170,36,4,0,7,19,25,29,36,1,4,0.697,61,307,6.4
+Jhonny Pereda,Seattle Mariners,HITTER,9,27,5,0,0,1,1,4,3,5,0,1,0.586,8,36,4.0
+Josh Naylor,Seattle Mariners,HITTER,53,209,54,5,0,5,24,20,19,32,12,1,0.676,74,363,6.85
+Julio Rodríguez,Seattle Mariners,HITTER,57,229,59,11,0,10,27,30,18,52,5,2,0.754,100,415,7.28
+Luke Raley,Seattle Mariners,HITTER,51,140,37,5,1,11,29,20,8,52,1,4,0.872,77,307,6.02
+Mitch Garver,Seattle Mariners,HITTER,27,69,14,2,0,2,6,12,16,25,0,0,0.672,22,111,4.11
+Patrick Wisdom,Seattle Mariners,HITTER,4,12,1,1,0,0,2,0,0,5,0,0,0.25,2,6,1.5
+Randy Arozarena,Seattle Mariners,HITTER,57,207,61,15,1,6,25,38,23,57,14,8,0.846,96,485,8.51
+Rob Refsnyder,Seattle Mariners,HITTER,35,74,9,0,0,3,8,7,6,26,0,2,0.443,18,77,2.2
+Victor Robles,Seattle Mariners,HITTER,9,24,7,2,0,0,1,1,0,6,1,0,0.667,9,25,2.78
+Bryce Eldridge,San Francisco Giants,HITTER,15,47,8,2,0,1,2,2,6,14,0,0,0.541,13,40,2.67
+Casey Schmitt,San Francisco Giants,HITTER,48,182,53,10,1,12,31,26,7,38,4,5,0.887,101,415,8.65
+Daniel Susac,San Francisco Giants,HITTER,19,52,16,3,1,0,9,2,4,13,0,0,0.761,21,75,3.95
+Drew Gilbert,San Francisco Giants,HITTER,37,105,24,4,1,2,9,10,6,22,0,1,0.62,36,131,3.54
+Eric Haase,San Francisco Giants,HITTER,11,29,8,2,0,3,5,6,1,7,0,0,0.955,19,74,6.73
+Harrison Bader,San Francisco Giants,HITTER,29,102,17,5,0,5,13,10,4,32,0,0,0.559,37,134,4.62
+Jesus Rodriguez,San Francisco Giants,HITTER,13,38,8,0,0,1,5,2,3,5,1,1,0.575,11,53,4.08
+Luis Arraez,San Francisco Giants,HITTER,53,206,67,10,3,2,20,26,13,9,5,2,0.798,89,382,7.21
+Matt Chapman,San Francisco Giants,HITTER,55,205,47,13,1,1,16,24,23,53,0,2,0.63,65,264,4.8
+Rafael Devers,San Francisco Giants,HITTER,56,215,52,15,0,7,28,21,13,69,0,1,0.695,88,311,5.55
+Victor Bericoto,San Francisco Giants,HITTER,4,5,1,0,0,0,0,0,0,2,0,0,0.4,1,0,0.0
+Will Brennan,San Francisco Giants,HITTER,11,23,2,0,0,0,0,0,0,3,0,0,0.174,2,1,0.09
+Willy Adames,San Francisco Giants,HITTER,55,222,54,17,1,7,18,27,11,66,1,1,0.705,94,319,5.8
+Alec Burleson,St. Louis Cardinals,HITTER,53,206,58,13,0,7,35,25,21,37,2,2,0.798,92,410,7.74
+Bryan Torres,St. Louis Cardinals,HITTER,5,19,6,0,1,1,3,1,2,3,0,0,0.96,11,39,7.8
+César Prieto,St. Louis Cardinals,HITTER,6,17,0,0,0,0,0,0,0,2,0,0,0.0,0,-2,-0.33
+George Soriano,St. Louis Cardinals,HITTER,23,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Iván Herrera,St. Louis Cardinals,HITTER,54,201,53,12,1,6,26,31,33,43,2,10,0.813,85,420,7.78
+JJ Wetherholt,St. Louis Cardinals,HITTER,53,205,48,6,0,9,25,36,28,44,6,10,0.746,81,431,8.13
+Jordan Walker,St. Louis Cardinals,HITTER,53,203,61,11,0,15,42,38,20,56,7,2,0.943,117,538,10.15
+José Fermín,St. Louis Cardinals,HITTER,28,61,13,3,0,2,8,4,7,12,0,0,0.651,22,89,3.18
+Masyn Winn,St. Louis Cardinals,HITTER,48,178,41,8,2,1,18,20,17,42,5,5,0.624,56,267,5.56
+Nolan Gorman,St. Louis Cardinals,HITTER,52,175,38,4,0,6,25,17,22,58,0,0,0.643,60,248,4.77
+Pedro Pagés,St. Louis Cardinals,HITTER,35,114,25,4,0,4,9,11,5,30,2,2,0.622,41,148,4.23
+Thomas Saggese,St. Louis Cardinals,HITTER,28,69,11,2,0,0,2,8,5,24,0,0,0.404,13,44,1.57
+Victor Scott II,St. Louis Cardinals,HITTER,52,134,26,3,0,2,7,18,11,39,7,1,0.52,35,172,3.31
+Yohel Pozo,St. Louis Cardinals,HITTER,18,33,8,1,0,0,5,0,0,3,0,0,0.515,9,31,1.72
+Carson Williams,Tampa Bay Rays,HITTER,12,30,3,1,0,0,3,6,2,11,0,0,0.289,4,29,2.42
+Cedric Mullins,Tampa Bay Rays,HITTER,47,163,31,3,1,3,15,17,12,32,10,3,0.533,45,245,5.21
+Chandler Simpson,Tampa Bay Rays,HITTER,52,207,61,4,4,0,12,28,11,23,14,0,0.68,73,347,6.67
+Hunter Feduccia,Tampa Bay Rays,HITTER,31,64,18,2,0,1,6,8,7,23,0,1,0.715,23,85,2.74
+Jonathan Aranda,Tampa Bay Rays,HITTER,53,189,54,9,0,9,41,30,31,54,0,3,0.86,90,434,8.19
+Junior Caminero,Tampa Bay Rays,HITTER,53,202,53,5,0,13,27,32,29,37,0,0,0.833,97,423,7.98
+Nick Fortes,Tampa Bay Rays,HITTER,43,126,33,6,0,1,10,10,4,19,0,3,0.632,42,147,3.42
+Oliver Dunn,Tampa Bay Rays,HITTER,5,7,0,0,0,0,0,3,1,2,0,0,0.125,0,9,1.8
+Richie Palacios,Tampa Bay Rays,HITTER,39,100,26,3,0,1,15,14,14,25,7,3,0.684,32,200,5.13
+Ryan Vilade,Tampa Bay Rays,HITTER,31,69,21,3,1,2,16,8,10,13,2,0,0.847,32,162,5.23
+Taylor Walls,Tampa Bay Rays,HITTER,40,124,25,6,2,0,14,19,17,36,6,1,0.585,35,209,5.23
+Victor Mesa Jr.,Tampa Bay Rays,HITTER,3,10,3,0,0,1,2,2,1,2,0,0,0.964,6,26,8.67
+Yandy Díaz,Tampa Bay Rays,HITTER,50,190,59,9,1,8,33,27,19,27,1,7,0.887,94,425,8.5
+Alejandro Osuna,Texas Rangers,HITTER,30,71,19,2,0,0,7,9,11,13,1,5,0.698,21,116,3.87
+Brandon Nimmo,Texas Rangers,HITTER,53,206,55,10,2,6,19,23,22,46,1,4,0.77,87,337,6.36
+Danny Jansen,Texas Rangers,HITTER,37,114,20,5,1,3,10,9,11,37,0,4,0.587,36,135,3.65
+Evan Carter,Texas Rangers,HITTER,54,160,28,5,2,6,18,21,26,43,9,1,0.637,55,304,5.63
+Ezequiel Duran,Texas Rangers,HITTER,47,147,41,12,1,4,26,22,13,39,4,0,0.789,67,307,6.53
+Jacob Latz,Texas Rangers,HITTER,20,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Jake Burger,Texas Rangers,HITTER,53,200,47,8,0,10,36,25,13,58,1,1,0.709,85,356,6.72
+Joc Pederson,Texas Rangers,HITTER,51,128,32,5,0,6,16,20,23,34,0,1,0.791,55,249,4.88
+Josh Jung,Texas Rangers,HITTER,50,189,57,14,0,5,21,23,15,30,1,2,0.812,86,337,6.74
+Justin Foscue,Texas Rangers,HITTER,18,53,14,3,0,2,7,5,3,16,0,1,0.744,23,81,4.5
+Kyle Higashioka,Texas Rangers,HITTER,27,83,17,1,0,3,9,9,7,26,0,1,0.6,27,105,3.89
+Michael Helman,Texas Rangers,HITTER,6,14,2,1,0,0,0,0,1,3,0,0,0.414,3,6,1.0
+Nicky Lopez,Texas Rangers,HITTER,5,8,0,0,0,0,0,1,0,2,0,0,0.0,0,1,0.2
+Sam Haggerty,Texas Rangers,HITTER,33,41,6,1,0,0,1,3,2,16,1,1,0.376,7,22,0.67
+Andrés Giménez,Toronto Blue Jays,HITTER,53,180,40,7,1,5,27,13,6,34,6,4,0.616,64,283,5.34
+Brandon Valenzuela,Toronto Blue Jays,HITTER,35,92,23,2,0,4,10,13,12,25,1,0,0.739,37,157,4.49
+Daulton Varsho,Toronto Blue Jays,HITTER,53,189,50,11,1,5,16,25,19,42,4,2,0.751,78,322,6.08
+Ernie Clement,Toronto Blue Jays,HITTER,55,211,62,17,0,5,20,22,8,18,2,0,0.763,94,349,6.35
+George Springer,Toronto Blue Jays,HITTER,37,142,30,7,0,5,14,14,14,31,3,2,0.657,52,221,5.97
+Jesús Sánchez,Toronto Blue Jays,HITTER,54,160,45,10,0,6,27,18,7,37,1,4,0.776,73,293,5.43
+Kazuma Okamoto,Toronto Blue Jays,HITTER,54,197,43,6,0,11,29,26,22,71,0,2,0.718,82,334,6.19
+Lenyn Sosa,Toronto Blue Jays,HITTER,40,113,22,7,0,1,9,11,1,25,0,1,0.49,32,112,2.8
+Myles Straw,Toronto Blue Jays,HITTER,47,83,20,3,0,2,6,18,9,15,2,0,0.661,29,150,3.19
+Nathan Lukes,Toronto Blue Jays,HITTER,22,60,17,5,0,0,9,5,1,10,0,3,0.69,22,89,4.05
+Tyler Heineman,Toronto Blue Jays,HITTER,29,68,10,0,0,1,4,6,2,17,0,2,0.385,13,49,1.69
+Vladimir Guerrero Jr.,Toronto Blue Jays,HITTER,54,191,56,7,0,3,22,32,29,24,5,4,0.769,72,386,7.15
+Yohendrick Piñango,Toronto Blue Jays,HITTER,26,79,23,4,0,2,12,6,4,17,0,0,0.743,33,119,4.58
+Alex Jackson,Minnesota Twins,HITTER,3,10,2,1,0,0,0,0,0,6,0,0,0.5,3,1,0.33
+Austin Martin,Minnesota Twins,HITTER,50,148,42,9,0,2,16,19,23,26,7,3,0.774,57,293,5.86
+Brooks Lee,Minnesota Twins,HITTER,52,188,48,9,1,6,30,23,13,37,3,2,0.72,77,344,6.62
+Byron Buxton,Minnesota Twins,HITTER,47,197,51,10,1,17,27,38,15,55,4,3,0.898,114,470,10.0
+James Outman,Minnesota Twins,HITTER,43,61,10,4,1,0,3,9,5,26,4,1,0.501,16,80,1.86
+Josh Bell,Minnesota Twins,HITTER,53,193,41,8,0,5,29,24,17,48,1,1,0.609,64,298,5.62
+Kody Clemens,Minnesota Twins,HITTER,44,146,34,10,1,5,15,18,13,38,5,5,0.735,61,266,6.05
+Luke Keaschall,Minnesota Twins,HITTER,52,187,44,9,1,1,18,23,19,32,10,4,0.626,58,316,6.08
+Orlando Arcia,Minnesota Twins,HITTER,6,16,8,1,0,0,1,1,0,3,0,0,1.063,9,22,3.67
+Ryan Kreidler,Minnesota Twins,HITTER,16,43,12,2,0,3,8,9,5,13,0,0,0.889,23,102,6.38
+Trevor Larnach,Minnesota Twins,HITTER,44,131,35,8,1,2,14,23,22,29,2,2,0.77,51,256,5.82
+Tristan Gray,Minnesota Twins,HITTER,29,81,18,1,0,3,14,9,7,30,0,1,0.635,28,118,4.07
+Victor Caratini,Minnesota Twins,HITTER,40,123,22,1,0,2,17,8,13,31,0,7,0.518,29,147,3.68
+Adolis García,Philadelphia Phillies,HITTER,55,189,38,7,1,4,15,17,20,65,2,4,0.599,59,224,4.07
+Alec Bohm,Philadelphia Phillies,HITTER,52,189,40,7,0,5,23,16,15,29,0,2,0.601,62,263,5.06
+Brandon Marsh,Philadelphia Phillies,HITTER,51,181,59,9,2,5,24,28,9,42,4,1,0.837,87,351,6.88
+Bryce Harper,Philadelphia Phillies,HITTER,56,199,53,10,1,13,33,33,31,42,4,0,0.884,104,484,8.64
+Bryson Stott,Philadelphia Phillies,HITTER,50,173,39,8,2,5,25,15,11,32,10,1,0.656,66,316,6.32
+Edmundo Sosa,Philadelphia Phillies,HITTER,31,87,18,3,0,2,14,10,3,20,2,2,0.557,27,133,4.29
+Garrett Stubbs,Philadelphia Phillies,HITTER,9,17,4,0,0,0,1,3,1,4,0,2,0.568,4,22,2.44
+J.T. Realmuto,Philadelphia Phillies,HITTER,36,120,28,4,0,2,9,11,9,21,1,4,0.623,38,154,4.28
+Jhoan Duran,Philadelphia Phillies,HITTER,17,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Justin Crawford,Philadelphia Phillies,HITTER,51,160,37,7,2,2,12,13,13,33,7,2,0.635,54,230,4.51
+Kyle Schwarber,Philadelphia Phillies,HITTER,53,202,48,9,1,21,38,35,32,79,1,4,0.957,122,514,9.7
+Otto Kemp,Philadelphia Phillies,HITTER,13,25,2,0,0,0,0,0,1,10,0,1,0.228,2,-2,-0.15
+Rafael Marchán,Philadelphia Phillies,HITTER,20,61,5,0,0,1,4,3,1,13,0,2,0.256,8,32,1.6
+Trea Turner,Philadelphia Phillies,HITTER,55,226,51,9,0,7,19,34,17,53,11,0,0.637,81,380,6.91
+Austin Riley,Atlanta Braves,HITTER,56,208,46,8,1,8,31,28,18,67,3,4,0.679,80,355,6.34
+Chadwick Tromp,Atlanta Braves,HITTER,7,16,5,1,0,0,2,1,0,5,0,0,0.688,6,17,2.43
+Didier Fuentes,Atlanta Braves,HITTER,13,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Dominic Smith,Atlanta Braves,HITTER,43,111,36,4,1,5,24,17,4,19,0,1,0.861,57,244,5.67
+Eli White,Atlanta Braves,HITTER,31,68,15,2,1,2,11,10,3,14,1,1,0.628,25,120,3.87
+Ha-Seong Kim,Atlanta Braves,HITTER,12,42,4,0,0,0,2,4,5,13,1,0,0.286,4,28,2.33
+Jorge Mateo,Atlanta Braves,HITTER,33,64,20,3,0,2,6,17,4,21,6,0,0.806,29,151,4.58
+Matt Olson,Atlanta Braves,HITTER,56,216,56,17,0,15,44,38,27,57,1,1,0.887,118,533,9.52
+Mauricio Dubón,Atlanta Braves,HITTER,53,197,51,12,2,3,29,22,13,34,0,2,0.697,76,323,6.09
+Michael Harris II,Atlanta Braves,HITTER,53,188,56,6,0,12,32,25,7,39,3,1,0.846,98,389,7.34
+Mike Yastrzemski,Atlanta Braves,HITTER,50,141,33,7,1,3,14,23,12,38,1,3,0.67,51,225,4.5
+Ozzie Albies,Atlanta Braves,HITTER,56,216,58,8,0,8,27,35,18,29,0,3,0.745,90,403,7.2
+Raisel Iglesias,Atlanta Braves,HITTER,16,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Reynaldo López,Atlanta Braves,HITTER,11,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Robert Suarez,Atlanta Braves,HITTER,23,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Ronald Acuña Jr.,Atlanta Braves,HITTER,42,157,37,9,1,2,12,22,26,41,8,3,0.695,54,282,6.71
+Sandy León,Atlanta Braves,HITTER,9,20,2,0,0,0,0,0,0,6,0,0,0.2,2,-2,-0.22
+Tyler Kinley,Atlanta Braves,HITTER,25,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Andrew Benintendi,Chicago White Sox,HITTER,49,158,36,8,2,3,23,17,11,49,1,0,0.634,57,230,4.69
+Chase Meidroth,Chicago White Sox,HITTER,53,198,54,9,0,5,18,33,23,51,1,0,0.739,78,328,6.19
+Colson Montgomery,Chicago White Sox,HITTER,54,199,45,10,0,13,33,25,21,68,1,8,0.797,94,393,7.28
+Derek Hill,Chicago White Sox,HITTER,41,61,15,1,0,3,6,9,7,20,6,0,0.734,25,126,3.07
+Drew Romo,Chicago White Sox,HITTER,18,55,10,2,0,5,10,7,9,17,1,1,0.799,27,125,6.94
+Edgar Quero,Chicago White Sox,HITTER,39,105,19,1,0,1,13,10,12,31,1,3,0.493,23,122,3.13
+Luisangel Acuña,Chicago White Sox,HITTER,40,98,17,1,0,0,5,9,6,20,8,1,0.408,18,113,2.83
+Miguel Vargas,Chicago White Sox,HITTER,54,192,45,8,1,12,31,39,36,40,8,5,0.84,91,508,9.41
+Munetaka Murakami,Chicago White Sox,HITTER,55,196,47,3,0,20,40,42,42,78,1,1,0.936,110,522,9.49
+Randal Grichuk,Chicago White Sox,HITTER,33,63,17,4,0,4,12,13,2,16,0,1,0.823,33,143,4.33
+Rikuu Nishida,Chicago White Sox,HITTER,3,7,2,0,0,0,0,1,0,2,0,0,0.572,2,5,1.67
+Sam Antonacci,Chicago White Sox,HITTER,38,122,35,5,2,1,13,22,10,21,7,11,0.774,47,266,7.0
+Tristan Peters,Chicago White Sox,HITTER,52,131,34,6,1,2,12,17,12,31,4,2,0.697,48,212,4.08
+Cade Gibson,Miami Marlins,HITTER,4,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Christopher Morel,Miami Marlins,HITTER,19,59,10,3,0,0,1,2,3,23,1,1,0.442,13,28,1.47
+Connor Norby,Miami Marlins,HITTER,50,160,34,9,0,4,14,16,20,53,6,7,0.668,55,248,4.96
+Esteury Ruiz,Miami Marlins,HITTER,25,42,8,3,1,2,5,11,1,15,8,0,0.657,19,122,4.88
+Graham Pauley,Miami Marlins,HITTER,33,85,14,6,0,1,9,8,5,22,1,0,0.482,23,98,2.97
+Heriberto Hernández,Miami Marlins,HITTER,34,93,19,0,1,2,18,6,11,23,5,1,0.582,27,158,4.65
+Jakob Marsee,Miami Marlins,HITTER,55,196,38,5,3,3,15,31,31,54,14,6,0.617,58,361,6.56
+Javier Sanoja,Miami Marlins,HITTER,42,115,32,10,0,1,20,7,9,13,3,0,0.722,45,203,4.83
+Joe Mack,Miami Marlins,HITTER,19,57,12,3,0,0,6,6,4,19,0,0,0.525,15,58,3.05
+Kyle Stowers,Miami Marlins,HITTER,34,123,26,7,0,3,10,16,14,38,1,2,0.643,42,174,5.12
+Liam Hicks,Miami Marlins,HITTER,54,178,47,4,0,11,44,27,18,19,1,4,0.81,84,437,8.09
+Otto Lopez,Miami Marlins,HITTER,56,219,75,14,2,4,23,31,9,36,10,3,0.851,105,436,7.79
+Owen Caissie,Miami Marlins,HITTER,48,133,30,8,0,4,26,15,10,62,3,2,0.658,50,216,4.5
+Pete Fairbanks,Miami Marlins,HITTER,15,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Xavier Edwards,Miami Marlins,HITTER,57,212,67,11,3,6,19,40,28,28,8,0,0.877,102,478,8.39
+Aaron Judge,New York Yankees,HITTER,56,202,51,10,0,17,34,41,40,69,5,2,0.934,112,533,9.52
+Amed Rosario,New York Yankees,HITTER,31,88,24,3,1,6,20,13,6,19,0,0,0.843,47,203,6.55
+Anthony Volpe,New York Yankees,HITTER,11,35,9,3,0,1,7,7,9,10,2,0,0.838,15,95,8.64
+Austin Wells,New York Yankees,HITTER,42,131,23,1,0,4,7,13,21,40,0,0,0.563,36,143,3.4
+Ben Rice,New York Yankees,HITTER,51,183,53,11,1,16,37,40,27,49,2,2,1.006,114,523,10.25
+Cody Bellinger,New York Yankees,HITTER,55,199,54,13,3,8,36,34,34,31,5,0,0.86,97,501,9.11
+J.C. Escarra,New York Yankees,HITTER,19,55,11,3,1,0,7,4,4,13,0,0,0.541,16,65,3.42
+Jazz Chisholm Jr.,New York Yankees,HITTER,54,195,48,10,1,6,20,25,22,62,13,1,0.724,78,364,6.74
+José Caballero,New York Yankees,HITTER,46,151,39,7,0,4,14,18,8,29,13,4,0.697,58,287,6.24
+Max Schuemann,New York Yankees,HITTER,12,14,4,2,0,0,1,5,6,4,2,0,0.929,6,50,4.17
+Paul Blackburn,New York Yankees,HITTER,15,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Paul Goldschmidt,New York Yankees,HITTER,31,98,26,6,1,5,15,17,12,22,0,3,0.863,49,220,7.1
+Ryan McMahon,New York Yankees,HITTER,51,141,28,4,0,5,18,14,12,48,3,0,0.594,47,195,3.82
+Trent Grisham,New York Yankees,HITTER,54,175,36,9,1,7,29,30,32,38,3,0,0.714,68,379,7.02
+Andrew Vaughn,Milwaukee Brewers,HITTER,17,52,17,6,0,1,8,9,6,7,0,2,0.917,26,120,7.06
+Blake Perkins,Milwaukee Brewers,HITTER,31,63,6,3,0,0,7,6,6,18,2,1,0.329,9,66,2.13
+Brice Turang,Milwaukee Brewers,HITTER,50,185,51,11,1,7,30,43,39,54,9,0,0.859,85,485,9.7
+Chad Patrick,Milwaukee Brewers,HITTER,13,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Christian Yelich,Milwaukee Brewers,HITTER,25,93,26,5,1,4,16,16,8,27,3,0,0.821,45,205,8.2
+David Hamilton,Milwaukee Brewers,HITTER,43,121,27,2,1,0,8,21,15,28,10,1,0.57,31,207,4.81
+Garrett Mitchell,Milwaukee Brewers,HITTER,46,140,33,9,1,3,28,20,24,62,6,1,0.728,53,285,6.2
+Gary Sánchez,Milwaukee Brewers,HITTER,31,89,18,3,1,5,15,15,21,23,0,2,0.793,38,204,6.58
+Jackson Chourio,Milwaukee Brewers,HITTER,20,86,23,7,0,1,5,9,6,28,5,0,0.699,33,126,6.3
+Jake Bauers,Milwaukee Brewers,HITTER,46,164,47,10,0,8,30,29,16,41,4,2,0.851,81,380,8.26
+Joey Ortiz,Milwaukee Brewers,HITTER,45,113,22,2,0,1,11,15,16,24,4,0,0.529,27,164,3.64
+Luis Rengifo,Milwaukee Brewers,HITTER,45,150,31,8,0,0,14,12,13,19,3,1,0.533,39,188,4.18
+Sal Frelick,Milwaukee Brewers,HITTER,51,166,36,5,0,3,18,22,17,21,4,1,0.59,50,266,5.22
+Trevor Megill,Milwaukee Brewers,HITTER,20,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+William Contreras,Milwaukee Brewers,HITTER,50,198,60,9,0,4,33,30,21,27,1,1,0.78,81,390,7.8
+Adam Frazier,Los Angeles Angels,HITTER,37,73,17,5,1,1,6,13,7,24,0,1,0.679,27,112,3.03
+Donovan Walton,Los Angeles Angels,HITTER,6,15,2,1,0,0,0,2,1,5,0,0,0.388,3,10,1.67
+Jo Adell,Los Angeles Angels,HITTER,57,216,52,7,0,8,29,19,7,57,2,8,0.672,83,316,5.54
+Jorge Soler,Los Angeles Angels,HITTER,53,192,41,9,0,9,30,25,20,69,0,4,0.698,77,325,6.13
+Jose Siri,Los Angeles Angels,HITTER,10,11,3,1,0,1,1,3,1,5,0,0,0.969,7,26,2.6
+Logan O'Hoppe,Los Angeles Angels,HITTER,36,109,22,3,0,1,11,13,12,29,0,3,0.553,28,134,3.72
+Mike Trout,Los Angeles Angels,HITTER,56,195,46,9,0,13,28,40,50,59,5,3,0.881,94,499,8.91
+Oswald Peraza,Los Angeles Angels,HITTER,50,144,39,6,1,6,14,16,9,40,5,6,0.791,65,255,5.1
+Sebastián Rivero,Los Angeles Angels,HITTER,20,34,4,0,0,0,0,1,2,8,0,0,0.285,4,7,0.35
+Vaughn Grissom,Los Angeles Angels,HITTER,34,107,24,6,0,3,19,8,12,12,0,1,0.667,39,185,5.44
+Wade Meckler,Los Angeles Angels,HITTER,6,15,6,0,0,1,3,1,1,2,1,0,1.038,9,37,6.17
+Zach Neto,Los Angeles Angels,HITTER,57,220,50,12,1,10,25,38,31,79,7,5,0.762,94,439,7.7
+Adrian Del Castillo,Arizona Diamondbacks,HITTER,36,114,22,4,0,4,20,8,9,38,0,0,0.583,38,152,4.22
+Aramis Garcia,Arizona Diamondbacks,HITTER,5,11,2,0,0,0,1,1,0,3,0,0,0.364,2,7,1.4
+Corbin Carroll,Arizona Diamondbacks,HITTER,52,188,55,12,8,7,28,35,30,50,7,2,0.945,104,488,9.38
+Gabriel Moreno,Arizona Diamondbacks,HITTER,32,107,27,7,0,3,17,16,10,25,3,1,0.716,43,210,6.56
+Geraldo Perdomo,Arizona Diamondbacks,HITTER,52,179,40,8,3,2,20,23,32,29,8,1,0.671,60,344,6.62
+Ildemaro Vargas,Arizona Diamondbacks,HITTER,48,188,57,9,2,7,35,30,7,21,1,1,0.814,91,404,8.42
+Jonathan Loáisiga,Arizona Diamondbacks,HITTER,22,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Jorge Barrosa,Arizona Diamondbacks,HITTER,41,85,15,9,1,1,7,10,8,30,0,1,0.596,29,110,2.68
+Jose Fernandez,Arizona Diamondbacks,HITTER,48,144,37,5,0,3,14,23,6,36,6,1,0.645,51,232,4.83
+Ketel Marte,Arizona Diamondbacks,HITTER,52,210,58,11,2,9,32,34,16,34,0,0,0.802,100,429,8.25
+Nolan Arenado,Arizona Diamondbacks,HITTER,51,170,46,11,0,7,27,27,18,35,1,4,0.81,78,357,7.0
+Ryan Waldschmidt,Arizona Diamondbacks,HITTER,19,63,19,5,1,0,7,10,6,21,5,0,0.775,26,126,6.63
+Tim Tawa,Arizona Diamondbacks,HITTER,27,57,10,2,0,1,8,6,8,15,0,0,0.536,15,77,2.85
+Tommy Troy,Arizona Diamondbacks,HITTER,4,12,5,2,0,0,0,5,2,1,0,0,1.083,7,34,8.5
+Adley Rutschman,Baltimore Orioles,HITTER,38,142,38,12,0,7,26,19,15,24,0,1,0.84,71,311,8.18
+Blaze Alexander,Baltimore Orioles,HITTER,47,118,30,5,1,1,14,14,8,34,6,1,0.646,40,187,3.98
+Coby Mayo,Baltimore Orioles,HITTER,44,133,26,5,0,5,18,16,13,44,1,1,0.616,46,198,4.5
+Colton Cowser,Baltimore Orioles,HITTER,46,100,21,2,0,3,14,14,13,38,1,0,0.618,32,149,3.24
+Gunnar Henderson,Baltimore Orioles,HITTER,55,234,52,10,1,13,29,30,15,70,6,2,0.714,103,415,7.55
+Jackson Holliday,Baltimore Orioles,HITTER,8,19,4,0,0,1,4,4,3,6,2,0,0.672,7,50,6.25
+Jeremiah Jackson,Baltimore Orioles,HITTER,50,165,41,7,0,6,26,15,3,35,1,1,0.663,66,252,5.04
+Leody Taveras,Baltimore Orioles,HITTER,46,133,37,8,1,2,21,21,20,33,6,1,0.775,53,285,6.2
+Pete Alonso,Baltimore Orioles,HITTER,56,212,49,12,0,10,33,31,26,55,2,1,0.744,91,415,7.41
+Samuel Basallo,Baltimore Orioles,HITTER,44,150,40,7,1,8,22,21,13,44,0,0,0.81,73,282,6.41
+Taylor Ward,Baltimore Orioles,HITTER,55,200,50,15,0,2,16,33,48,52,1,1,0.749,71,359,6.53
+Tyler O'Neill,Baltimore Orioles,HITTER,34,93,15,1,0,2,8,13,12,26,0,2,0.508,22,114,3.35
+Weston Wilson,Baltimore Orioles,HITTER,20,38,9,1,0,1,3,6,6,11,2,1,0.698,13,69,3.45
+Andruw Monasterio,Boston Red Sox,HITTER,29,85,21,8,0,1,10,9,6,18,1,0,0.673,32,130,4.48
+Aroldis Chapman,Boston Red Sox,HITTER,18,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Caleb Durbin,Boston Red Sox,HITTER,48,147,24,8,0,1,16,14,11,25,4,4,0.479,35,195,4.06
+Carlos Narváez,Boston Red Sox,HITTER,35,101,22,5,0,2,3,13,10,33,1,2,0.628,33,119,3.4
+Ceddanne Rafaela,Boston Red Sox,HITTER,52,179,51,9,2,5,23,23,12,41,4,6,0.791,79,334,6.42
+Connor Wong,Boston Red Sox,HITTER,22,58,14,6,0,0,7,5,5,16,1,2,0.668,20,85,3.86
+Garrett Whitlock,Boston Red Sox,HITTER,20,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Isiah Kiner-Falefa,Boston Red Sox,HITTER,29,58,16,2,0,1,10,8,6,10,4,0,0.706,21,122,4.21
+Jarren Duran,Boston Red Sox,HITTER,49,197,42,9,1,8,27,26,16,58,10,3,0.672,77,370,7.55
+Marcelo Mayer,Boston Red Sox,HITTER,49,146,32,6,0,2,12,12,11,31,3,2,0.581,44,180,3.67
+Masataka Yoshida,Boston Red Sox,HITTER,38,102,26,6,1,1,7,11,13,10,1,2,0.71,37,163,4.29
+Mickey Gasper,Boston Red Sox,HITTER,15,43,14,2,0,0,2,7,2,10,0,1,0.742,16,57,3.8
+Nick Sogard,Boston Red Sox,HITTER,9,30,9,2,1,0,2,3,5,5,0,0,0.833,13,50,5.56
+Willson Contreras,Boston Red Sox,HITTER,52,187,53,6,2,11,33,25,21,56,1,8,0.887,96,405,7.79
+Wilyer Abreu,Boston Red Sox,HITTER,53,207,59,10,1,6,22,24,21,44,4,0,0.779,89,358,6.75
+Alex Bregman,Chicago Cubs,HITTER,55,222,58,8,1,4,16,24,25,43,2,3,0.703,80,321,5.84
+Caleb Thielbar,Chicago Cubs,HITTER,14,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Carson Kelly,Chicago Cubs,HITTER,42,134,41,6,0,2,17,18,15,27,0,3,0.784,53,230,5.48
+Daniel Palencia,Chicago Cubs,HITTER,12,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Dansby Swanson,Chicago Cubs,HITTER,53,179,34,5,1,7,27,32,26,46,4,1,0.638,62,350,6.6
+Ian Happ,Chicago Cubs,HITTER,52,195,42,8,1,11,26,36,37,75,2,2,0.782,85,401,7.71
+Kevin Alcántara,Chicago Cubs,HITTER,4,2,0,0,0,0,0,0,1,2,0,0,0.333,0,0,0.0
+Michael Busch,Chicago Cubs,HITTER,55,198,46,11,1,6,31,23,38,53,1,5,0.755,77,379,6.89
+Michael Conforto,Chicago Cubs,HITTER,34,72,20,8,0,4,13,12,13,22,0,0,0.94,40,175,5.15
+Miguel Amaya,Chicago Cubs,HITTER,32,77,18,2,0,3,9,14,11,20,0,3,0.729,29,143,4.47
+Moisés Ballesteros,Chicago Cubs,HITTER,46,123,29,5,0,6,20,15,15,28,0,0,0.737,52,228,4.96
+Nico Hoerner,Chicago Cubs,HITTER,55,219,56,13,0,4,32,24,26,20,10,4,0.711,81,441,8.02
+Pedro Ramírez,Chicago Cubs,HITTER,4,7,2,1,0,0,1,1,1,0,0,0,0.804,3,15,3.75
+Pete Crow-Armstrong,Chicago Cubs,HITTER,56,201,45,6,2,6,24,29,21,59,12,6,0.677,73,382,6.82
+Ryan Rolison,Chicago Cubs,HITTER,14,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Seiya Suzuki,Chicago Cubs,HITTER,42,154,36,4,0,7,17,23,20,46,0,3,0.727,61,260,6.19
+Blake Dunn,Cincinnati Reds,HITTER,16,51,17,2,1,1,2,10,4,12,2,1,0.864,24,98,6.13
+Dane Myers,Cincinnati Reds,HITTER,46,80,20,3,0,3,12,16,12,25,2,2,0.758,32,170,3.7
+Elly De La Cruz,Cincinnati Reds,HITTER,55,222,62,13,1,12,37,38,21,72,9,2,0.855,113,509,9.25
+Eugenio Suárez,Cincinnati Reds,HITTER,30,105,25,5,0,3,13,12,13,34,0,0,0.693,39,156,5.2
+JJ Bleday,Cincinnati Reds,HITTER,27,98,27,6,1,7,21,16,17,21,1,0,0.95,56,263,9.74
+Matt McLain,Cincinnati Reds,HITTER,54,191,38,9,0,5,20,21,24,51,7,2,0.62,62,302,5.59
+Nathaniel Lowe,Cincinnati Reds,HITTER,40,117,32,9,0,8,24,15,15,32,0,0,0.912,65,270,6.75
+P.J. Higgins,Cincinnati Reds,HITTER,9,17,5,0,0,0,3,1,2,7,0,0,0.644,5,19,2.11
+Sal Stewart,Cincinnati Reds,HITTER,55,207,53,9,0,12,36,34,31,48,10,1,0.826,98,505,9.18
+Spencer Steer,Cincinnati Reds,HITTER,53,189,50,10,0,7,21,31,18,43,3,3,0.765,81,356,6.72
+TJ Friedl,Cincinnati Reds,HITTER,44,150,27,6,0,2,8,14,13,40,5,4,0.522,39,173,3.93
+Tyler Stephenson,Cincinnati Reds,HITTER,44,134,26,6,0,4,17,11,21,43,0,0,0.627,44,185,4.2
+Will Benson,Cincinnati Reds,HITTER,41,78,14,2,1,2,5,10,15,29,1,1,0.627,24,109,2.66
+Angel Martínez,Cleveland Guardians,HITTER,53,179,44,9,1,9,28,24,6,38,8,4,0.742,82,371,7.0
+Austin Hedges,Cleveland Guardians,HITTER,27,71,16,4,0,1,4,12,8,15,1,0,0.624,23,106,3.93
+Brayan Rocchio,Cleveland Guardians,HITTER,55,178,53,8,1,4,27,25,19,23,9,5,0.8,75,394,7.16
+Chase DeLauter,Cleveland Guardians,HITTER,53,192,50,11,1,7,31,21,25,24,2,0,0.78,84,387,7.3
+Daniel Schneemann,Cleveland Guardians,HITTER,46,146,35,9,0,4,19,19,18,47,3,0,0.707,56,247,5.37
+David Fry,Cleveland Guardians,HITTER,35,76,18,2,0,3,8,11,13,26,0,0,0.73,29,123,3.51
+José Ramírez,Cleveland Guardians,HITTER,58,212,48,12,0,8,27,30,38,34,20,1,0.739,84,511,8.81
+Kyle Manzardo,Cleveland Guardians,HITTER,49,149,33,4,1,5,17,19,17,57,0,2,0.67,54,213,4.35
+Patrick Bailey,Cleveland Guardians,HITTER,39,107,15,1,0,2,8,6,9,28,2,0,0.413,22,91,2.33
+Petey Halpin,Cleveland Guardians,HITTER,16,25,3,0,0,0,1,3,1,6,2,0,0.274,3,24,1.5
+Rhys Hoskins,Cleveland Guardians,HITTER,45,122,23,9,0,5,20,20,28,45,0,1,0.72,47,246,5.47
+Steven Kwan,Cleveland Guardians,HITTER,54,193,40,7,0,1,12,25,34,25,2,2,0.588,50,277,5.13
+Travis Bazzana,Cleveland Guardians,HITTER,27,96,29,6,0,3,11,12,15,19,7,2,0.865,44,219,8.11
+Braxton Fulford,Colorado Rockies,HITTER,12,17,3,0,0,1,2,5,2,6,2,0,0.616,6,43,3.58
+Brett Sullivan,Colorado Rockies,HITTER,28,77,15,6,0,1,9,4,4,18,0,1,0.553,24,87,3.11
+Chad Stevens,Colorado Rockies,HITTER,6,12,1,0,0,0,2,0,2,5,0,0,0.283,1,7,1.17
+Edouard Julien,Colorado Rockies,HITTER,46,133,27,3,1,2,12,15,17,43,3,1,0.584,38,174,3.78
+Ezequiel Tovar,Colorado Rockies,HITTER,55,187,40,11,0,2,16,14,12,52,3,2,0.571,57,210,3.82
+Hunter Goodman,Colorado Rockies,HITTER,51,193,46,8,0,12,20,31,13,74,3,4,0.766,90,340,6.67
+Jake McCarthy,Colorado Rockies,HITTER,46,130,35,7,3,2,19,14,8,26,9,1,0.727,54,261,5.67
+Kyle Freeland,Colorado Rockies,HITTER,10,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Kyle Karros,Colorado Rockies,HITTER,53,155,32,7,0,2,14,19,24,44,2,0,0.599,45,214,4.04
+Sterlin Thompson,Colorado Rockies,HITTER,9,24,4,1,0,0,2,1,2,4,0,1,0.467,5,22,2.44
+TJ Rumfield,Colorado Rockies,HITTER,55,192,54,9,1,7,27,23,20,33,0,4,0.807,86,362,6.58
+Troy Johnston,Colorado Rockies,HITTER,52,169,53,14,0,2,23,21,15,39,2,2,0.808,73,301,5.79
+Tyler Freeman,Colorado Rockies,HITTER,36,121,30,3,0,2,14,10,4,17,4,8,0.638,39,184,5.11
+Willi Castro,Colorado Rockies,HITTER,46,152,39,8,0,2,18,22,13,50,3,1,0.666,53,231,5.02
+Colt Keith,Detroit Tigers,HITTER,52,152,45,8,1,0,7,21,9,35,1,1,0.699,55,194,3.73
+Dillon Dingler,Detroit Tigers,HITTER,51,180,42,11,0,10,32,22,19,44,0,4,0.781,83,361,7.08
+Gage Workman,Detroit Tigers,HITTER,14,36,6,3,0,2,5,3,0,16,0,0,0.584,15,45,3.21
+Hao-Yu  Lee,Detroit Tigers,HITTER,28,72,14,3,1,1,8,4,4,21,0,0,0.543,22,74,2.64
+Jahmai Jones,Detroit Tigers,HITTER,37,66,11,2,0,2,7,6,6,24,0,0,0.524,19,71,1.92
+Jake Rogers,Detroit Tigers,HITTER,19,48,7,2,1,0,4,4,4,17,1,1,0.447,11,48,2.53
+Kevin McGonigle,Detroit Tigers,HITTER,55,203,60,12,3,3,21,35,33,30,8,2,0.828,87,446,8.11
+Matt Vierling,Detroit Tigers,HITTER,47,140,30,9,0,4,21,13,14,27,2,0,0.644,51,232,4.94
+Riley Greene,Detroit Tigers,HITTER,57,201,62,15,0,4,25,30,30,65,1,2,0.846,89,370,6.49
+Spencer Torkelson,Detroit Tigers,HITTER,56,182,38,12,0,8,21,18,26,68,0,3,0.723,74,283,5.05
+Wenceel Pérez,Detroit Tigers,HITTER,41,124,21,3,0,4,10,16,10,20,3,0,0.521,36,176,4.29
+Zach McKinstry,Detroit Tigers,HITTER,35,102,17,3,0,1,9,2,9,20,1,0,0.455,23,87,2.49
+Zack Short,Detroit Tigers,HITTER,13,22,3,1,0,0,0,1,5,6,0,1,0.503,4,18,1.38
+Braden Shewmake,Houston Astros,HITTER,25,66,18,3,0,3,8,7,1,11,0,0,0.734,30,105,4.2
+Brice Matthews,Houston Astros,HITTER,47,138,29,4,1,4,14,14,11,47,2,0,0.608,47,177,3.77
+Cam Smith,Houston Astros,HITTER,56,182,38,7,0,5,18,24,21,58,7,4,0.631,60,290,5.18
+César Salazar,Houston Astros,HITTER,7,16,1,0,0,0,1,0,2,3,0,1,0.274,1,8,1.14
+Christian Vázquez,Houston Astros,HITTER,35,105,27,4,0,4,17,10,9,19,0,0,0.726,43,178,5.09
+Christian Walker,Houston Astros,HITTER,57,208,53,10,0,15,40,33,21,45,0,3,0.849,108,478,8.39
+Isaac Paredes,Houston Astros,HITTER,51,184,44,8,0,5,20,19,18,33,0,7,0.694,67,286,5.61
+Jake Meyers,Houston Astros,HITTER,20,61,12,2,0,2,5,7,5,15,1,1,0.593,20,84,4.2
+Jeremy Peña,Houston Astros,HITTER,19,78,19,4,0,1,5,11,4,13,2,3,0.635,26,117,6.16
+Nick Allen,Houston Astros,HITTER,28,43,13,1,0,1,4,10,3,9,1,1,0.757,17,83,2.96
+Taylor Trammell,Houston Astros,HITTER,12,35,13,2,1,0,4,5,4,11,1,0,0.922,17,67,5.58
+Yordan Alvarez,Houston Astros,HITTER,56,202,63,11,0,20,39,36,36,41,1,4,1.085,134,588,10.5
+Zach Dezenzo,Houston Astros,HITTER,17,41,9,4,0,1,2,5,4,16,0,0,0.679,16,51,3.0
+Bobby Witt Jr.,Kansas City Royals,HITTER,56,221,64,14,1,9,25,27,23,44,16,0,0.838,107,486,8.68
+Carter Jensen,Kansas City Royals,HITTER,52,162,36,8,0,6,23,20,20,54,0,1,0.689,62,261,5.02
+Isaac Collins,Kansas City Royals,HITTER,49,151,32,6,0,3,16,18,23,48,3,4,0.639,47,229,4.67
+Jac Caglianone,Kansas City Royals,HITTER,51,166,39,9,1,5,11,18,14,55,1,2,0.694,65,220,4.31
+Kyle Isbel,Kansas City Royals,HITTER,46,136,34,6,1,3,11,15,8,36,5,3,0.679,51,205,4.46
+Lane Thomas,Kansas City Royals,HITTER,42,93,20,3,0,1,9,8,21,25,3,1,0.639,26,142,3.38
+Lucas Erceg,Kansas City Royals,HITTER,22,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Maikel Garcia,Kansas City Royals,HITTER,54,217,57,15,1,3,20,27,19,34,4,0,0.701,83,354,6.56
+Michael Massey,Kansas City Royals,HITTER,41,106,24,9,0,3,13,11,4,22,1,0,0.644,42,162,3.95
+Nick Loftin,Kansas City Royals,HITTER,24,59,13,7,0,0,13,9,8,9,0,3,0.672,20,126,5.25
+Salvador Perez,Kansas City Royals,HITTER,54,206,44,5,0,9,25,21,10,45,0,4,0.629,76,296,5.48
+Starling Marte,Kansas City Royals,HITTER,23,53,15,3,0,0,2,3,4,16,0,1,0.679,18,48,2.09
+Tyler Tolbert,Kansas City Royals,HITTER,11,6,1,0,0,0,0,2,0,1,3,0,0.334,1,22,2.0
+Vinnie Pasquantino,Kansas City Royals,HITTER,53,196,39,6,2,5,23,21,24,42,2,1,0.611,64,298,5.62
+Alex Call,Los Angeles Dodgers,HITTER,25,51,15,4,0,0,10,11,10,8,0,1,0.786,19,119,4.76
+Alex Freeland,Los Angeles Dodgers,HITTER,34,101,23,4,0,2,8,11,11,32,0,0,0.628,33,121,3.56
+Andy Pages,Los Angeles Dodgers,HITTER,56,208,63,12,0,13,50,34,15,44,7,2,0.899,114,543,9.7
+Dalton Rushing,Los Angeles Dodgers,HITTER,29,82,21,2,0,7,17,14,8,25,0,3,0.881,44,194,6.69
+Freddie Freeman,Los Angeles Dodgers,HITTER,53,199,54,15,1,7,26,27,30,38,2,1,0.83,92,408,7.7
+Hyeseong Kim,Los Angeles Dodgers,HITTER,43,116,30,3,1,1,11,16,12,31,5,0,0.651,38,182,4.23
+Kyle Tucker,Los Angeles Dodgers,HITTER,53,196,48,14,2,4,26,36,30,43,4,1,0.743,78,407,7.68
+Max Muncy,Los Angeles Dodgers,HITTER,50,167,42,6,0,12,19,36,26,50,0,1,0.859,84,367,7.34
+Miguel Rojas,Los Angeles Dodgers,HITTER,34,83,22,4,0,1,9,8,5,10,0,2,0.664,29,119,3.5
+Mookie Betts,Los Angeles Dodgers,HITTER,22,88,16,2,0,6,15,13,6,12,0,1,0.649,36,172,7.82
+Shohei Ohtani,Los Angeles Dodgers,HITTER,55,193,52,12,1,9,30,36,39,53,6,5,0.882,93,481,8.75
+Teoscar Hernández,Los Angeles Dodgers,HITTER,51,181,50,8,0,7,31,30,19,55,2,2,0.784,79,360,7.06
+Will Smith,Los Angeles Dodgers,HITTER,46,154,39,4,0,5,22,20,19,28,0,2,0.714,58,270,5.87
+Andrés Chaparro,Washington Nationals,HITTER,10,20,3,1,0,0,3,3,5,5,0,0,0.52,4,32,3.2
+Brad Lord,Washington Nationals,HITTER,16,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+CJ Abrams,Washington Nationals,HITTER,56,204,60,12,2,12,47,34,25,47,8,8,0.937,112,566,10.11
+Clayton Beeter,Washington Nationals,HITTER,13,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Curtis Mead,Washington Nationals,HITTER,42,123,29,8,0,7,20,23,20,24,3,2,0.824,58,302,7.19
+Daylen Lile,Washington Nationals,HITTER,56,224,58,15,1,7,27,35,19,46,4,1,0.744,96,423,7.55
+Drew Millas,Washington Nationals,HITTER,35,88,15,3,0,1,7,11,8,23,0,1,0.486,21,96,2.74
+Dylan Crews,Washington Nationals,HITTER,8,33,8,1,0,1,1,2,1,7,1,0,0.629,12,36,4.5
+Gus Varland,Washington Nationals,HITTER,22,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Jacob Young,Washington Nationals,HITTER,55,180,42,6,0,7,24,25,9,32,3,4,0.668,69,314,5.71
+James Wood,Washington Nationals,HITTER,57,217,60,15,0,15,37,50,47,78,10,4,0.967,120,620,10.88
+Jorbit Vivas,Washington Nationals,HITTER,42,100,24,6,0,1,5,15,10,17,0,4,0.658,33,145,3.45
+José Tena,Washington Nationals,HITTER,42,104,23,7,1,3,13,16,7,36,0,1,0.671,41,164,3.9
+Keibert Ruiz,Washington Nationals,HITTER,34,107,28,12,0,4,24,13,2,17,1,1,0.763,52,229,6.74
+Luis García Jr.,Washington Nationals,HITTER,51,167,44,10,2,4,27,20,6,28,2,0,0.706,70,297,5.82
+Nasim Nuñez,Washington Nationals,HITTER,53,164,31,2,1,0,16,21,22,41,22,1,0.5,35,300,5.66
+Orlando Ribalta,Washington Nationals,HITTER,13,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Paxton Schultz,Washington Nationals,HITTER,15,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+A.J. Ewing,New York Mets,HITTER,16,52,13,0,1,1,4,6,8,20,3,0,0.696,18,81,5.06
+Bo Bichette,New York Mets,HITTER,56,227,51,6,0,5,27,25,16,42,1,0,0.59,72,311,5.55
+Brett Baty,New York Mets,HITTER,53,165,38,8,1,3,21,21,18,51,2,1,0.651,57,253,4.77
+Carson Benge,New York Mets,HITTER,53,186,46,7,0,3,20,25,14,41,9,3,0.643,62,310,5.85
+Devin Williams,New York Mets,HITTER,21,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+Eric Wagaman,New York Mets,HITTER,2,4,1,0,0,1,1,1,0,1,0,0,1.25,4,15,7.5
+Hayden Senger,New York Mets,HITTER,5,10,1,0,0,0,1,1,0,3,0,0,0.2,1,5,1.0
+Jared Young,New York Mets,HITTER,13,23,8,2,0,0,2,3,3,4,0,0,0.842,10,39,3.0
+Juan Soto,New York Mets,HITTER,39,143,43,4,1,12,24,24,22,25,5,0,0.986,85,388,9.95
+Luis Torrens,New York Mets,HITTER,33,87,18,7,0,0,11,8,5,20,0,2,0.553,25,108,3.27
+Luke Weaver,New York Mets,HITTER,22,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0
+MJ Melendez,New York Mets,HITTER,34,74,15,3,1,2,6,8,9,31,0,4,0.673,26,98,2.88
+Marcus Semien,New York Mets,HITTER,56,202,43,7,0,4,19,19,14,44,5,1,0.571,62,264,4.71
+Mark Vientos,New York Mets,HITTER,48,170,38,8,0,6,23,16,7,38,0,2,0.637,64,245,5.1
+Vidal Bruján,New York Mets,HITTER,4,4,1,0,0,0,1,3,1,0,0,0,0.65,1,16,4.0

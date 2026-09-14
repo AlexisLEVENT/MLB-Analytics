@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environnement / secrets
+.env
+.env.*
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Base de données locale
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp
+
+# macOS
+.DS_Store
