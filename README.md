@@ -2,7 +2,7 @@
 
 ## End-to-End Data Engineering & Analytics Pipeline
 
-Projet personnel de Data Engineering et Analytics consacré à l'analyse des performances des joueurs MLB.
+Projet personnel de **Data Engineering et Analytics** consacré à l'analyse des performances des joueurs MLB.
 
 L'objectif est de construire une chaîne complète allant de la récupération des données jusqu'à leur transformation, leur scoring et leur visualisation dans un dashboard interactif.
 
@@ -12,20 +12,20 @@ L'objectif est de construire une chaîne complète allant de la récupération d
 
 ```text
 MLB Data
-    │
-    ▼
+   │
+   ▼
 Python Extraction
-    │
-    ▼
+   │
+   ▼
 DuckDB
-    │
-    ▼
+   │
+   ▼
 dbt / SQL Transformation
-    │
-    ▼
+   │
+   ▼
 Player Scoring
-    │
-    ▼
+   │
+   ▼
 Streamlit Dashboard
 ```
 
@@ -72,21 +72,26 @@ MLB-Analytics/
 ├── score_players.py
 ├── query_db.py
 ├── run_all.sh
-│
+├── requirements.txt
 ├── dbt_project.yml
-│
-├── analyses/
-├── macros/
-├── models/
-├── seeds/
-├── snapshots/
-└── tests/
+├── profiles.yml
 │
 ├── all_mlb_stats_2026.csv
 ├── all_mlb_stats_2026.json
 ├── data_pour_looker.csv
 ├── staging_ohtani_stats.json
-└── team_stats_2026.json
+├── team_stats_2026.json
+│
+├── models/
+│   ├── example/
+│   ├── models/
+│   └── stg_mlb_players.sql
+│
+├── analyses/
+├── macros/
+├── seeds/
+├── snapshots/
+└── tests/
 ```
 
 ---
@@ -132,9 +137,7 @@ Ce projet me permet de travailler sur plusieurs problématiques rencontrées dan
 
 ## 🚀 Dashboard
 
-Une version interactive du dashboard Streamlit sera prochainement disponible.
-
-> **Live Dashboard — Coming Soon**
+👉 [Open the MLB Sorare Scouting Dashboard](https://mlb-analytics-9cmzwdidgjrpb9uvdwttk3.streamlit.app)
 
 ---
 
@@ -142,7 +145,7 @@ Une version interactive du dashboard Streamlit sera prochainement disponible.
 
 **Alexis Levent**
 
-Data Analyst / Analytics Engineer
+Data Engineer / Analytics Engineer
 
 [GitHub](https://github.com/AlexisLEVENT)  
 [LinkedIn](https://fr.linkedin.com/in/alexis-levent-795ba411b)
