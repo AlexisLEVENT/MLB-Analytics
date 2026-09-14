@@ -7,6 +7,7 @@ venv/
 # Environnement / secrets
 .env
 .env.*
+.user.yml
 
 # dbt
 target/

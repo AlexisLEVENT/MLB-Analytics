@@ -25,14 +25,14 @@ query = f"""
     SELECT * FROM stg_mlb_hitters 
     WHERE team IN {tuple(selected_teams) if len(selected_teams) > 1 else (f"('{selected_teams[0]}')" if selected_teams else "('')")}
     AND player_type IN {tuple(selected_type) if len(selected_type) > 1 else (f"('{selected_type[0]}')" if selected_type else "('')")}
-    ORDER BY avg_sorare_score DESC
+    ORDER BY sorare_avg_per_game DESC
 """
 df = conn.execute(query).df()
 
 # --- MAIN DASHBOARD ---
 col1, col2 = st.columns(2)
 col1.metric("Joueurs filtrés", len(df))
-col2.metric("Moyenne max", f"{df['avg_sorare_score'].max():.2f}" if not df.empty else 0)
+col2.metric("Moyenne max", f"{df['sorare_avg_per_game'].max():.2f}" if not df.empty else 0)
 
 st.subheader("Classement")
 # Remplacement de use_container_width par width='stretch' pour supprimer l'erreur
@@ -40,4 +40,4 @@ st.dataframe(df, width=1000)
 
 st.subheader("Performance")
 if not df.empty:
-    st.bar_chart(df.set_index('player_name')['avg_sorare_score'])
+    st.bar_chart(df.set_index('player_name')['sorare_avg_per_game'])
