@@ -1,5 +1,3 @@
-import os
-import subprocess
 import streamlit as st
 import duckdb
 
@@ -17,40 +15,15 @@ st.title("⚾ MLB Sorare Scouting Dashboard")
 
 
 # --------------------------------------------------
-# INITIALISATION DE LA BASE DUCKDB
+# CONNEXION À LA BASE DUCKDB
 # --------------------------------------------------
 
 DB_PATH = "dev.duckdb"
 
-
-if not os.path.exists(DB_PATH):
-
-    with st.spinner("Initialisation de la base de données..."):
-
-        result = subprocess.run(
-            [
-                "dbt",
-                "run",
-                "--profiles-dir",
-                ".",
-                "--select",
-                "stg_mlb_hitters"
-            ],
-            capture_output=True,
-            text=True
-        )
-
-    if result.returncode != 0:
-        st.error("Erreur lors de l'initialisation de la base de données.")
-        st.code(result.stdout + "\n" + result.stderr)
-        st.stop()
-
-
-# --------------------------------------------------
-# CONNEXION DUCKDB
-# --------------------------------------------------
-
-conn = duckdb.connect(DB_PATH, read_only=True)
+conn = duckdb.connect(
+    DB_PATH,
+    read_only=True
+)
 
 
 # --------------------------------------------------
@@ -129,10 +102,12 @@ df = conn.execute(query).df()
 
 col1, col2 = st.columns(2)
 
+
 col1.metric(
     "Joueurs filtrés",
     len(df)
 )
+
 
 col2.metric(
     "Moyenne max",
@@ -142,6 +117,10 @@ col2.metric(
 )
 
 
+# --------------------------------------------------
+# CLASSEMENT
+# --------------------------------------------------
+
 st.subheader("Classement")
 
 st.dataframe(
@@ -150,10 +129,16 @@ st.dataframe(
 )
 
 
+# --------------------------------------------------
+# PERFORMANCE
+# --------------------------------------------------
+
 st.subheader("Performance")
 
 if not df.empty:
 
     st.bar_chart(
-        df.set_index("player_name")["sorare_avg_per_game"]
+        df.set_index("player_name")[
+            "sorare_avg_per_game"
+        ]
     )
